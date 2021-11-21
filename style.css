@@ -1,0 +1,24 @@
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto:ital,wght@1,300&display=swap";
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #000;
+}
+p
+{
+  font-size: 9.5px;
+  line-height: 9.5px;
+  background: url(juliana.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255,255, 0);
+}
